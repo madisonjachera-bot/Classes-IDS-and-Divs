@@ -1,0 +1,76 @@
+
+html {
+
+  height: 100%;
+
+  width: 100%;
+
+}
+
+body {
+
+  font-family: Tahoma, san-serif;
+
+}
+
+.little {
+
+  width: 100px;
+
+}
+
+#big {
+
+  width: 500px;
+
+}
+
+#part1 {
+
+  color: red;
+
+  font-family: "Ribeye Marrow", serif;
+
+}
+
+#part2 {
+
+  color: green;
+
+  font-family: "Ribeye Marrow", serif;
+
+}
+
+#part3 {
+
+  color: blue;
+
+  font-family: "Ribeye Marrow", serif;
+
+}
+
+.ribeye-marrow-regular {
+  
+  font-family: "Ribeye Marrow", serif;
+  
+  font-weight: 400;
+  
+  font-style: normal;
+
+}
+
+.important {
+
+  border-style:dotted;
+
+  border-color: brown;
+
+  border-width: 67px;
+
+}
+
+.veryImportant {
+
+  background-color: yellow;
+
+}
